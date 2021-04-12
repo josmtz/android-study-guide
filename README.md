@@ -8,12 +8,22 @@ All the information provided in here is related to the topics of [Study guide: A
 ## Android core
 
 - Understand the architecture of the Android system
+    - Guide: [Platform Architecture](https://developer.android.com/guide/platform)
 - Be able to describe the basic building blocks of an Android app
+    - Guide: [App components are the essential building blocks of an Android app](https://developer.android.com/guide/components/fundamentals)
 - Know how to build and run an Android app
+    - Training: [Build your first app](https://developer.android.com/training/basics/firstapp)
 - Display simple messages in a popup using a `Toast` or a `Snackbar`
+    - Guide: [Toasts overview](https://developer.android.com/guide/topics/ui/notifiers/toasts)
+    - Training: [Snackbar overview](https://developer.android.com/training/snackbar)
 - Be able to display a message outside your app's UI using `Notifications`
+    - Guide: [Notifications Overview](https://developer.android.com/guide/topics/ui/notifiers/notifications)
+    - Training: [Create a Notification](https://developer.android.com/training/notify-user/build-notification)
 - Understand how to localize an app
+    - Guide: [Localize your app](https://developer.android.com/guide/topics/resources/localization)
 - Be able to schedule a background task using `WorkManager`
+    - Guide: [Schedule tasks with WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager)
+    - Training: [Getting started with WorkManager](https://developer.android.com/topic/libraries/architecture/workmanager/basics)
 
 
 ## User interface
