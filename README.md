@@ -59,12 +59,20 @@ All the information provided in here is related to the topics of [Study guide: A
 ## Data management
 
 - Understand how to define data using Room entities
+    - Training: [Defining data using Room entities](https://developer.android.com/training/data-storage/room/defining-data)
 - Be able to access `Room` database with data access object (DAO)
+    - Training: [Accessing data using Room DAOs](https://developer.android.com/training/data-storage/room/accessing-data)
 - Know how to observe and respond to changing data using `LiveData`
+    - Guide: [LiveData Overview](https://developer.android.com/topic/libraries/architecture/livedata)
 - Understand how to use a Repository to mediate data operations
+    - Training: [Android Kotlin Fundamentals: Repository](https://developer.android.com/codelabs/kotlin-android-training-repository#0)
 - Be able to read and parse raw resources or asset files
+    - Guide: [Sharing files](https://developer.android.com/training/secure-file-sharing)
+    - Guide: [Content providers](https://developer.android.com/guide/topics/providers/content-providers)
 - Be able to create persistent Preference data from user input
+    - Guide: [Use saved values](https://developer.android.com/guide/topics/ui/settings/use-saved-values)
 - Understand how to change the behavior of the app based on user preferences
+    - Guide: [Save key-value data](https://developer.android.com/training/data-storage/shared-preferences)
 
 
 ## Debugging
