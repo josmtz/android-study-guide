@@ -10,7 +10,7 @@ All the information provided in here is related to the topics of [Study guide: A
 - Understand the architecture of the Android system
     - Guide: [Platform Architecture](https://developer.android.com/guide/platform)
 - Be able to describe the basic building blocks of an Android app
-    - Guide: [App components are the essential building blocks of an Android app](https://developer.android.com/guide/components/fundamentals)
+    - Guide: [Application Fundamentals](https://developer.android.com/guide/components/fundamentals)
 - Know how to build and run an Android app
     - Training: [Build your first app](https://developer.android.com/training/basics/firstapp)
 - Display simple messages in a popup using a `Toast` or a `Snackbar`
@@ -29,16 +29,31 @@ All the information provided in here is related to the topics of [Study guide: A
 ## User interface
 
 - Understand the Android activity lifecycle
+    - Guide: [Understand the Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle/)
 - Be able to create an `Activity` that displays a `Layout`
+    - Guide: [Layouts ](https://developer.android.com/guide/topics/ui/declaring-layout)
 - Be able to construct a UI with `ConstraintLayout`
+    - Training: [Build a Responsive UI with ConstraintLayout ](https://developer.android.com/training/constraint-layout)
 - Understand how to create a custom `View` class and add it to a `Layout`
+    - Guide: [Custom View Components](https://developer.android.com/guide/topics/ui/custom-components)
+    - Training: [Creating a View Class](https://developer.android.com/training/custom-views/create-view)
 - Know how to implement a custom app theme
+    - Guide: [Styles and Themes](https://developer.android.com/guide/topics/ui/look-and-feel/themes)
 - Be able to add accessibility hooks to a custom `View`
+    - Guide: [Make custom views more accessible](https://developer.android.com/guide/topics/ui/accessibility/custom-views)
+    - Guide: [Create your own accessibility service](https://developer.android.com/guide/topics/ui/accessibility/service)
 - Know how to apply content descriptions to views for accessibility
+    - Guide: [Make apps more accessible](https://developer.android.com/guide/topics/ui/accessibility/apps)
 - Understand how to display items in a `RecyclerView`
+    - Guide: [Create dynamic lists with RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
 - Be able to bind local data to a `RecyclerView` list using the Paging library
+    - Guide: [Paging library overview](https://developer.android.com/topic/libraries/architecture/paging)
 - Know how to implement menu-based navigation
+    - Guide: [Update UI components with NavigationUI](https://developer.android.com/guide/navigation/navigation-ui)
 - Understand how to implement drawer navigation
+    - Guide: [Add a navigation drawer](https://developer.android.com/guide/navigation/navigation-ui#add_a_navigation_drawer)
+    - Training: [Navigation drawer implementation](https://material.io/components/navigation-drawer/android)
+
 
 
 ## Data management
@@ -52,7 +67,7 @@ All the information provided in here is related to the topics of [Study guide: A
 - Understand how to change the behavior of the app based on user preferences
 
 
-## Debuggingbookmark_border
+## Debugging
 
 - Understand the basic debugging techniques available in Android Studio
 - Know how to debug and fix issues with an app's functional behavior and usability
