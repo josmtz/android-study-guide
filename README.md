@@ -93,7 +93,13 @@ All the information provided in here is related to the topics of [Study guide: A
 ## Testing
 
 - Thoroughly understand the fundamentals of testing
+    - Training: [Fundamentals of Testing](https://developer.android.com/training/testing/fundamentals)
 - Be able to write useful local JUnit tests
+    - Training: [Build effective unit tests](https://developer.android.com/training/testing/unit-testing)
 - Understand the Espresso UI test framework
+    - Training: [Espresso](https://developer.android.com/training/testing/espresso)
 - Know how to write useful automated Android tests
+    - Training: [Automate user interface tests](https://developer.android.com/training/testing/ui-testing)
+    - Training: [UI Automator](https://developer.android.com/training/testing/ui-automator)
+    
 
