@@ -67,21 +67,27 @@ All the information provided in here is related to the topics of [Study guide: A
 - Understand how to use a Repository to mediate data operations
     - Training: [Android Kotlin Fundamentals: Repository](https://developer.android.com/codelabs/kotlin-android-training-repository#0)
 - Be able to read and parse raw resources or asset files
-    - Guide: [Sharing files](https://developer.android.com/training/secure-file-sharing)
+    - Training: [Sharing files](https://developer.android.com/training/secure-file-sharing)
     - Guide: [Content providers](https://developer.android.com/guide/topics/providers/content-providers)
 - Be able to create persistent Preference data from user input
     - Guide: [Use saved values](https://developer.android.com/guide/topics/ui/settings/use-saved-values)
 - Understand how to change the behavior of the app based on user preferences
-    - Guide: [Save key-value data](https://developer.android.com/training/data-storage/shared-preferences)
+    - Training: [Save key-value data](https://developer.android.com/training/data-storage/shared-preferences)
 
 
 ## Debugging
 
 - Understand the basic debugging techniques available in Android Studio
+    - Guide: [Debug your app](https://developer.android.com/studio/debug)
 - Know how to debug and fix issues with an app's functional behavior and usability
+    - Guide: [Debug Your layout with Layout Inspector and Layout Validation](https://developer.android.com/studio/debug/layout-inspector)
 - Be able to use the System Log to output debug information
+    - Guide: [Use the system log](https://developer.android.com/studio/debug#systemLog)
+    - Guide: [Write and View Logs with Logcat](https://developer.android.com/studio/debug/am-logcat)
 - Understand how to use breakpoints in Android Studio
+    - Guide: [Work with breakpoints](https://developer.android.com/studio/debug#breakPoints)
 - Know how to inspect variables using Android Studio
+    - Guide: [Inspect variables](https://developer.android.com/studio/debug#variablesAndWatches)
 
 
 ## Testing
